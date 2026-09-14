@@ -11,7 +11,7 @@ awesome-nodejs에서 "Weird"와 "Mad science" 카테고리를 훑어봤다. 터�
 
 ## 선정한 패키지
 
-### 1. `cows
+### 1. `cows`
 
 **선정 이유:**
 선정 이유: awesome-nodejs의 "Weird" 카테고리에서 봤는데, "400개가 넘는 ASCII 소 그림"이라는 한 줄 설명이 재밌어서 골랐다.
