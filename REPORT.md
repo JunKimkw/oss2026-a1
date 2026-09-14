@@ -7,6 +7,7 @@
 ## 어디를 둘러봤는지
 
 awesome-nodejs에서 "Weird"와 "Mad science" 카테고리를 훑어봤다. 터미널에서는 npm search "cli table", npm search "ascii art" 같은 검색어를 시도해봤고, npmjs.com에서 몇몇 패키지의 Keywords 링크를 눌러 비슷한 패키지들도 같이 살펴봤다.
+
 ---
 
 ## 선정한 패키지
