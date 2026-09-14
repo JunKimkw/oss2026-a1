@@ -27,4 +27,8 @@
 
 // ↓ 여기부터 작성
 
-console.log("아직 비어 있습니다. 위 주석을 읽고 패키지를 하나 import해서 호출해보세요.");
+import cows from "cows";
+
+const allCows = cows();
+const random = allCows[Math.floor(Math.random() * allCows.length)];
+console.log(random);
